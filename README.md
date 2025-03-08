@@ -1,12 +1,27 @@
-# 💫 About Me:
-👋 Hi, I'm Leonardo!<br>I'm a Computer Engineering student at University of Pisa 
+# 👋 Hi, I'm Leonardo Ceccarelli!  
 
+🎓 **Computer Engineering Graduate** | 🤖 **AI & Data Science Enthusiast** | 🖥️ **Tech Explorer**  
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 🔍 About Me  
+I'm a **Computer Engineering graduate** with a strong passion for **Artificial Intelligence, Machine Learning, and Data Engineering**. Currently, I am pursuing a **Master’s Degree in AI & Data Science**, where I am expanding my expertise in **data-driven technologies and automation**.  
 
+Beyond coding, I enjoy **mystery novels, board games, and solving logic puzzles**.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cecco01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack & Skills  
+🔹 **Languages:** Python | C++ | C | JavaScript | PHP | x86 Assembly  
+🔹 **AI & Data Science:** Machine Learning | Data Mining | Neural Networks  
+🔹 **Databases:** MySQL | PostgreSQL  
+🔹 **Tools & Other:** Git & GitHub | Docker | Linux | Web Development  
+
+---
+
+## 📫 Get in Touch!  
+📩 **Email:** [tuo@email.com](mailto:ceccarelli.leonardo01@email.com)  
+🔗 **LinkedIn:** [linkedin.com/in/tuo-profilo](https://www.linkedin.com/in/leonardo-ceccarelli-19bb2b354/)
+💻 **GitHub:** [github.com/tuo-username](https://github.com/cecco01)
+
+---
+
+🔹 **Feel free to explore my repositories and connect with me!** 😊🚀
