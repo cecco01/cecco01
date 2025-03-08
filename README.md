@@ -20,7 +20,7 @@ Beyond coding, I enjoy **mystery novels, board games, and solving logic puzzles*
 
 ## 📫 Get in Touch!  
 📩 **Email:** [ceccarelli.leonardo01@email.com](mailto:ceccarelli.leonardo01@email.com)  
-🔗 **LinkedIn:** [linkedin.com/in/leonardo-ceccarelli-19bb2b354/](https://www.linkedin.com/in/leonardo-ceccarelli-19bb2b354/)]
+🔗 **LinkedIn:** [linkedin.com/in/leonardo-ceccarelli-19bb2b354/](https://www.linkedin.com/in/leonardo-ceccarelli-19bb2b354/)
 
 ---
 
