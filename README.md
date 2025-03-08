@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Leonardo Ceccarelli!  
 
-🎓 **Computer Engineering Graduate** | 🤖 **AI & Data Science Enthusiast** | 🖥️ **Tech Explorer**  
+🎓 **Master's Student in Artificial Intelligence and Data Engineering at the University of Pisa**  
+💻 **Bachelor’s Degree in Computer Engineering at the University of Pisa**  
 
 ## 🔍 About Me  
 I'm a **Computer Engineering graduate** with a strong passion for **Artificial Intelligence, Machine Learning, and Data Engineering**. Currently, I am pursuing a **Master’s Degree in AI & Data Science**, where I am expanding my expertise in **data-driven technologies and automation**.  
